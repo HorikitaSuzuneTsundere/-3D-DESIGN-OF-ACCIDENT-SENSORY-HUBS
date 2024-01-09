@@ -20,3 +20,14 @@ The 3D design process also involves testing the hub's effectiveness in different
 The final 3D model is used to refine the design before actual production. The design must meet the functional requirements and aesthetics of the intended use, so designers make adjustments as needed.
 
 Overall, the 3D design of an accident-sensory hub for Home-Bot provides an excellent opportunity to create a home automation system that prioritizes safety and security. The design process ensures that the final product is of high quality and meets the requirements of the intended use, providing peace of mind for homeowners and their families.
+
+# APPENDIX
+
+[Homebot First Design](https://www.tinkercad.com/things/jCunzQ5fLKy-brave-borwo)
+
+![image](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/c8c6522f-e6c2-40a9-849a-84419c4a1e7b)
+
+[Sensor Hubs First Design](https://www.tinkercad.com/things/epazPTcfFdl-neat-kup-uusam)
+
+![image](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/dd1e191b-49be-4b86-9e4b-e8e7a408a5b4)
+
