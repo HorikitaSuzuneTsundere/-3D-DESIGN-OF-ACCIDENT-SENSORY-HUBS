@@ -23,11 +23,6 @@ Overall, the 3D design of an accident-sensory hub for Home-Bot provides an excel
 
 # APPENDIX
 
-[Homebot First Design](https://www.tinkercad.com/things/jCunzQ5fLKy-brave-borwo)
+[Homebot First Design](https://www.tinkercad.com/things/jCunzQ5fLKy-brave-borwo) [Sensor Hubs First Design](https://www.tinkercad.com/things/epazPTcfFdl-neat-kup-uusam)
 
-![image](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/c8c6522f-e6c2-40a9-849a-84419c4a1e7b)
-
-[Sensor Hubs First Design](https://www.tinkercad.com/things/epazPTcfFdl-neat-kup-uusam)
-
-![image](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/dd1e191b-49be-4b86-9e4b-e8e7a408a5b4)
-
+![image](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/c8c6522f-e6c2-40a9-849a-84419c4a1e7b) ![image](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/dd1e191b-49be-4b86-9e4b-e8e7a408a5b4)
