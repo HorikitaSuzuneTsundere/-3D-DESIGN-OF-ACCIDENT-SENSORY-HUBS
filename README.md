@@ -1,11 +1,8 @@
 # -3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS
 Revolutionizing Emergency Response: Creating Accurate 3D Designs of Accident Sensory Hubs for Quick and Effective Assistance
 
-![image](https://user-images.githubusercontent.com/80136683/224238467-a3c7fc70-b404-4f11-9152-f1684b66b66d.png)
-![image](https://user-images.githubusercontent.com/80136683/224238482-e7a35766-1da2-4ee9-a27e-7bcd75850a42.png)
-![image](https://user-images.githubusercontent.com/80136683/224238508-37d8ebc9-6f38-4017-a5ea-f74e6c384f07.png)
-![image](https://user-images.githubusercontent.com/80136683/224238519-708f8ccc-4070-4ee4-b66c-46d4eabd7657.png)
-
+![Image 1](https://user-images.githubusercontent.com/80136683/224238467-a3c7fc70-b404-4f11-9152-f1684b66b66d.png) | ![Image 2](https://user-images.githubusercontent.com/80136683/224238482-e7a35766-1da2-4ee9-a27e-7bcd75850a42.png) | ![Image 3](https://user-images.githubusercontent.com/80136683/224238508-37d8ebc9-6f38-4017-a5ea-f74e6c384f07.png) | ![Image 4](https://user-images.githubusercontent.com/80136683/224238519-708f8ccc-4070-4ee4-b66c-46d4eabd7657.png)
+--- | --- | --- | ---
 
 The 3D design of an accident-sensory hub for Home-Bot involves creating a compact and portable sensory hub that can be integrated with a home automation system to detect accidents and alert emergency services or family members.
 
@@ -21,8 +18,9 @@ The final 3D model is used to refine the design before actual production. The de
 
 Overall, the 3D design of an accident-sensory hub for Home-Bot provides an excellent opportunity to create a home automation system that prioritizes safety and security. The design process ensures that the final product is of high quality and meets the requirements of the intended use, providing peace of mind for homeowners and their families.
 
-# APPENDIX
+## APPENDIX
 
-[Homebot First Design](https://www.tinkercad.com/things/jCunzQ5fLKy-brave-borwo) [Sensor Hubs First Design](https://www.tinkercad.com/things/epazPTcfFdl-neat-kup-uusam)
+[Homebot First Design](https://www.tinkercad.com/things/jCunzQ5fLKy-brave-borwo) | [Sensor Hubs First Design](https://www.tinkercad.com/things/epazPTcfFdl-neat-kup-uusam)
+--- | ---
+![Homebot First Design](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/c8c6522f-e6c2-40a9-849a-84419c4a1e7b) | ![Sensor Hubs First Design](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/dd1e191b-49be-4b86-9e4b-e8e7a408a5b4)
 
-![image](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/c8c6522f-e6c2-40a9-849a-84419c4a1e7b) ![image](https://github.com/HorikitaSuzuneTsundere/-3D-DESIGN-OF-ACCIDENT-SENSORY-HUBS/assets/80136683/dd1e191b-49be-4b86-9e4b-e8e7a408a5b4)
